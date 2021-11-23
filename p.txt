@@ -1,0 +1,21 @@
+Background Image
+Input for weight and height
+ >kilograms
+ >meters
+SI unit for each Input
+Boxes with each description of solution
+Add min height (mobile mode?)
+
+Divide your weight in kilograms by meters squared. 
+Next, you will need to divide your weight in kilograms
+by your height in meters squared. For example, if your
+weight is 75 kilograms and your height in meters
+squared is 3.06, then you would divide 75 by 3.06 
+for an answer of 24.5 as your BMI.
+
+If your BMI is:
+
+below 18.5 – you're in the underweight range
+between 18.5 and 24.9 – you're in the healthy weight range
+between 25 and 29.9 – you're in the overweight range
+between 30 and 39.9 – you're in the obese range
