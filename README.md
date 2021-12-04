@@ -1,8 +1,6 @@
 ## Project Name 
 Body Mass Index Calculator
 
-![Homepage image](./homepage.png)
-
 # Author Name 
 Ivy Murithi
 
